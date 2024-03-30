@@ -2,6 +2,7 @@ module.exports = {
   title: "JY-前端",
   description: "前端知识点",
   theme: "reco",
+  base:'/vue-blog/',
   head: [
     [
       "meta",
